@@ -1,4 +1,5 @@
 ### Hi there 👋
+### if you find something useful, feel free to give me a star⭐
 
 <!--
 **lzzsG/lzzsG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
