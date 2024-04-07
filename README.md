@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### if you find something useful, feel free to give me a star⭐
 
+欢迎访问我的网站 [lzzs.fun](https://lzzs.fun/)
 <!--
 **lzzsG/lzzsG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
