@@ -1,8 +1,7 @@
 ### Hi there 👋
 ### if you find something useful, feel free to give me a star⭐
 
-欢迎访问我的网站 [lzzs.fun](https://lzzs.fun/
-<a href='https://lzzs.fun/' target="_blank" rel="noopener noreferrer"> lzzs.fun </a>
+欢迎访问我的网站 [lzzs.fun](https://lzzs.fun/)
 
 
 <!--
