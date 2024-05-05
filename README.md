@@ -3,6 +3,14 @@
 
 欢迎访问我的网站 [lzzs.fun](https://lzzs.fun/)
 
+- https://lzzs.fun/rustlings-notebook/
+- https://lzzs.fun/MIT-digital-systems/
+- https://lzzs.fun/6.175-labs-instruction/
+- https://lzzs.fun/CS61A-notebook/
+- https://lzzs.fun/CS61B-notebook/
+- https://lzzs.fun/CS61C-notebook/
+- https://lzzs.fun/CS110L-notebook/
+
 
 <!--
 **lzzsG/lzzsG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
