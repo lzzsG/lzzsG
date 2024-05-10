@@ -10,6 +10,7 @@
 - https://lzzs.fun/CS61B-notebook/
 - https://lzzs.fun/CS61C-notebook/
 - https://lzzs.fun/CS110L-notebook/
+- https://lzzs.fun/r-core-series/
 
 
 <!--
